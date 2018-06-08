@@ -1,8 +1,8 @@
-The tools folder will mainly serve as official applications that supports the EON blockchain.
-It will includes below functionalities:
+# Tools
+Below tools will be added to support EON blockchain ecosystem
 
-1, EON Wallet
-2, EON Smart Contract Depolyer
-3, EON Debugger
-4, EON Profiler
-5, EON Block Viewer
+*EON Wallet
+*EON Smart Contract Depolyer
+*EON Debugger
+*EON Profiler
+*EON Block Viewer
